@@ -1,0 +1,5 @@
+c:\users\bobw\documents\visual studio 2012\Projects\NameSortingApp\NameSortingApp\bin\Debug\NameSortingApp.exe.config
+c:\users\bobw\documents\visual studio 2012\Projects\NameSortingApp\NameSortingApp\bin\Debug\NameSortingApp.exe
+c:\users\bobw\documents\visual studio 2012\Projects\NameSortingApp\NameSortingApp\bin\Debug\NameSortingApp.pdb
+c:\users\bobw\documents\visual studio 2012\Projects\NameSortingApp\NameSortingApp\obj\Debug\NameSortingApp.exe
+c:\users\bobw\documents\visual studio 2012\Projects\NameSortingApp\NameSortingApp\obj\Debug\NameSortingApp.pdb
